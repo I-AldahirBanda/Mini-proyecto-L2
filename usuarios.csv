@@ -1,0 +1,11 @@
+id,nombres,apellidos,direccion,correo,dni,edad,fecha_creacion,telefono
+1,Juan Carlos,Pérez López,Calle 123, Ciudad de México,juan.perez@example.com,12345678MX,30,2024-07-08,555-1234
+2,María Guadalupe,García Hernández,Av. Reforma 456, Ciudad de México,maria.garcia@example.com,23456789MX,25,2024-07-08,555-5678
+3,José Luis,Rodríguez Martínez,Calle 789, Guadalajara,jose.rodriguez@example.com,34567890MX,28,2024-07-08,333-1234
+4,Ana Sofía,López Gómez,Calle 321, Monterrey,ana.lopez@example.com,45678901MX,32,2024-07-08,818-5678
+5,Luis Fernando,Hernández Díaz,Av. Juárez 654, Puebla,luis.hernandez@example.com,56789012MX,27,2024-07-08,222-1234
+6,Karla Paola,Martínez Sánchez,Calle 987, Toluca,karla.martinez@example.com,67890123MX,26,2024-07-08,722-5678
+7,Miguel Ángel,Gómez Flores,Av. Insurgentes 111, Querétaro,miguel.gomez@example.com,78901234MX,29,2024-07-08,442-1234
+8,Laura Elena,Sánchez Ramírez,Calle 654, Mérida,laura.sanchez@example.com,89012345MX,31,2024-07-08,999-5678
+9,Alejandro Javier,Díaz Ortiz,Av. Universidad 222, Tijuana,alejandro.diaz@example.com,90123456MX,33,2024-07-08,664-1234
+10,Claudia Isabel,Ortiz Morales,Calle 333, León,claudia.ortiz@example.com,01234567MX,24,2024-07-08,477-5678
